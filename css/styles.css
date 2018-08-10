@@ -1,3 +1,18 @@
-.prompts {
+body {
+  background: #4286f4
+}
+.start {
+  display: none;
+}
+.key {
+  display: none;
+}
+.break {
+  display: none;
+}
+.design {
+  display: none;
+}
+.explore {
   display: none;
 }
