@@ -1,16 +1,24 @@
 $(document).ready(function() {
-  $(".backEnd").click(function() {
-    $("#backEndInfo").toggle();
-    $("#frontEndInfo").toggle();
+   $(".clickable2").click(function() {
+    $("#show").show();
+    $("#hide").hide();
   });
-
-  $(".frontkEnd").click(function() {
-    $("#showFrontInfo").show();
-    $("#hideFrontInfo").hide();
+    $(".clickable1").click(function() {
+   $("#start").toggle();
+   $("#end").toggle();
   });
 });
 
-event.preventDefault()
+
+//   $("backEnd").click(function(event) {
+//     alert(start);
+//     $("#backEndInfo").toggle();
+//     $("#frontEndInfo").toggle();
+//   });
+//
+
+//
+// event.preventDefault();
 // var answr1 = $("#challenge").val();
 // var answr2 = $("tech").val();
 // var answr3 = $("commuication").val();

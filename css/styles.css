@@ -1,9 +1,43 @@
 body {
- background: #4286f4
+ margin :25px;
+ background: #c0ebf9
 }
-#backEnd {
+.jumbotron {
+  font-family: 'Arimo', sans-serif;
+  text-align: center;
+  background-color: #fff7d6
+}
+h1 {
+  font-size: 60px;
+}
+h3 {
+  padding: 10px;
+}
+#start {
   display: none;
 }
-#frontEnd {
+#end {
   display: none;
+}
+#show {
+  display: none;
+}
+#hide {
+  display: none;
+}
+.clickable1 {
+  font-family: 'Arimo', sans-serif;
+  font-weight: bold;
+  color: #b266b2
+}
+.clickable1:hover {
+  text-decoration: underline;
+}
+.clickable2 {
+  font-family: 'Arimo', sans-serif;
+  font-weight: bold;
+  color: #b266b2
+}
+.clickable2:hover {
+  text-decoration: underline;
 }
