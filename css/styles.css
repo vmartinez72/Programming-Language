@@ -1,9 +1,9 @@
 body {
-  background: #4286f4
+ background: #4286f4
 }
-.backEnd {
+#backEnd {
   display: none;
 }
-.frontEnd {
+#frontEnd {
   display: none;
 }
