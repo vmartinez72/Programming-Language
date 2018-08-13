@@ -10,8 +10,24 @@ body {
 h1 {
   font-size: 60px;
 }
+h2 {
+  color:  #b266b2
+}
+
 h3 {
   padding: 10px;
+}
+h4 {
+  color:  #b266b2
+}
+#result {
+  display: none;
+}
+#notgoodresult {
+  display: none;
+}
+.answer {
+  font-size: 20px;
 }
 #start {
   display: none;
