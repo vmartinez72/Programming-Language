@@ -20,10 +20,10 @@ h3 {
 h4 {
   color:  #b266b2
 }
-#result {
+.backEndResults {
   display: none;
 }
-#notgoodresult {
+.frontEndResult {
   display: none;
 }
 .answer {
