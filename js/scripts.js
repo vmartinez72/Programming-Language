@@ -14,11 +14,11 @@ $(document).ready(function() {
 
 
 alert("start");
- var answer1 = $(parseInt("challenge")).val();
- var answer2 = $(parseInt("tech")).val();
- var answer3 = $(parseInt("communication")).val();
- var answer4 = $(parseInt("visual")).val();
- var answer5 = $(parseInt("break")).val();
+ var answer1 = $("challenge")).val();
+ var answer2 = $("tech")).val();
+ var answer3 = $("communication")).val();
+ var answer4 = $("visual")).val();
+ var answer5 = $("break")).val();
 alert("end");
 
 
